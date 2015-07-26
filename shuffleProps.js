@@ -5,7 +5,6 @@ module.exports = function(obj) {
 	var shuffledObj = {};
 	var props = getProperties(obj);
 	
-	props.shuffle();
 	props = shuffleArray(props);
 	
 	for (var prop in props) {
