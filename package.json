@@ -1,7 +1,7 @@
 {
   "name": "shuffle-props",
   "version": "0.0.1",
-  "description": "Shuffle the order of properties in an object",
+  "description": "Randomly shuffle the order of properties in an object",
   "main": "shuffleProps.js",
   "scripts": {
     "test": "mocha test"
